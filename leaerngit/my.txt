@@ -1,2 +1,3 @@
 i am a good by.
 you are my friend.
+Creating a new branch is quick
